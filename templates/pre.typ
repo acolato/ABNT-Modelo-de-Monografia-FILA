@@ -233,7 +233,7 @@ metadados.supervisao.banca2.instituicao, line(length: 10cm),
 //     Dedico este trabalho aos meus pais, Juju e Ismael; aos meus irmãos, Ismael, Márcia e Marta; aos meus filhos, Júlia, Adriano e Felipe; ao meu marido, José Romero; e à minha neta Luísa.
 // ]))
 #blockquote[
-#emph[Dedico este trabalho aos meus pais, Juju e Ismael; aos meus irmãos, Ismael, Márcia e Marta; aos meus filhos, Júlia, Adriano e Felipe; ao meu marido, José Romero; e à minha neta Luísa.]
+#emph[#include("./dedicatória.typ")]
 ]
 
 #pagina_branca()
@@ -255,6 +255,7 @@ Agradecimentos
 #v(1cm)
 #set text(..regular)
 Agradeço à 
+#include("./agradecimento.typ")
 
 #pagina_branca()
 
@@ -267,9 +268,9 @@ Agradeço à
 
 //#align(center, image("../arquivos/image3.jpg", width: 3.960774278215223in, height: 2.970580708661417in))
 
-#blockquote[#emph[Na sociedade dos meios de comunicação de massa, o pensamento vê-se atrelado à imagem. Quantas vezes não relacionamos o que nossos olhos veem com imagens já vistas?]
+#blockquote[#emph[#include("./epigrafe.typ")]
+]
 
---- Sérgio de Sá]
 #pagina_branca()
 
 
@@ -281,18 +282,17 @@ Agradeço à
 Resumo
 #set text(..regular)
 #v(1cm)
-Este trabalho
+#include("./resumo.typ")
 
-#strong[Palavras-chave]: TDAH, Ensino de Física.
+
 // Abstract ==================================
 #pagebreak()
 #set text(..t2, weight:"black")
 Abstract
 #v(1cm)
 #set text(..regular)
-In this work
+#include("./abstract.typ")
 
-#strong[Keywords]: ADHD, Physics Education.
 
 #pagebreak()
 // Listas ====================================
