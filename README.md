@@ -2,10 +2,6 @@ Este repositório é baseado no modelo inicial proposto neste endereço https://
 
 Os principais elementos foram modificados para que a formatação se adequasse ao modelo do curso de Licenciatura em Física da Universidade Federal de São Carlos, Campus de Araras.
 
-Este repositório é baseado no modelo inicial proposto neste endereço https://github.com/fredguth/abnt-typst.
-
-Os principais elementos foram modificados para que a formatação se adequasse ao modelo do curso de Licenciatura em Física da Universidade Federal de São Carlos, Campus de Araras.
-
 Os bullets listados representam os arquivos que devem ser editados para obter o melhor resultado neste projeto. Cada arquivo possui um nome autoexplicativo, o que facilita a identificação de sua finalidade. Vamos dar uma olhada em cada um deles:
 - **abnt_template**: Este arquivo contém o modelo inicial proposto para formatação de acordo com as normas da ABNT. Aqui você pode personalizar o estilo e a estrutura do seu documento.
 
