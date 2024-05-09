@@ -254,21 +254,7 @@ metadados.supervisao.banca2.instituicao, line(length: 10cm),
 Agradecimentos
 #v(1cm)
 #set text(..regular)
-Agradeço à Universidade de Brasília, onde tive a honra de fazer meu primeiro curso de graduação e desde então tornou-se uma referência de grande importância na minha vida. E à Faculdade de Comunicação – professores, direção, coordenação e servidores da pós-graduação –, por me receber e oferecer todas as condições para concluir o mestrado com tranquilidade e segurança.
-
-Agradeço ao meu orientador, Professor Doutor Sérgio Araújo de Sá, pela disposição em me conduzir ao longo de dois anos de estudo e pesquisa, sempre disponível para o diálogo, para a discussão, para a indicação de autores e textos que tornaram possível a compreensão do meu objeto de estudo.
-
-Agradeço a esta banca, que colaborou de forma decisiva para a conclusão deste trabalho, com críticas e sugestões inestimáveis.
-
-Agradeço aos meus colegas, que dividiram comigo todos os momentos e sentimentos que um curso de mestrado proporciona. E homenageio, em especial, Maria Vanessa Veiga Esteves, de quem não pude me despedir, mas que deixou saudade, respeito e a certeza de que a vida, às vezes, nos traz desafios só vencidos com muita coragem.
-
-Agradeço aos meus amigos, cuja companhia eu sacrifiquei ao longo desses dois anos, mas que, mesmo assim, não desistiram de mim.
-
-E agradeço, de todo o meu coração, aos meus familiares, que me incentivaram sempre, colaboraram emocional e materialmente para que eu pudesse fazer o mestrado e se interessaram sinceramente pela minha trajetória acadêmica.
-
-Ao meu marido, agradeço de maneira especial, pela paciência infinita e pelo apoio, sem o qual eu não poderia ter realizado o objetivo de dar sequência à vida acadêmica.
-
-A todos e a cada um de vocês, meu muito obrigada!
+Agradeço à 
 
 #pagina_branca()
 
@@ -295,18 +281,18 @@ A todos e a cada um de vocês, meu muito obrigada!
 Resumo
 #set text(..regular)
 #v(1cm)
-A fotografia de Aylan Kurdi, menino sírio de 3 anos de idade morto numa praia da Turquia em 2 de setembro de 2015, chocou o mundo e tornou-se símbolo da atual crise migratória que tem gerado milhões de refugiados. Essa fotografia inspirou um movimento artístico nas redes sociais digitais que reproduziu, em forma de ilustrações, a imagem de Aylan morto na praia e transformou o tema "refugiados" em um dos assuntos mais discutidos na internet em 2015. Trouxe também mais uma vez a discussão sobre o poder transformador da imagem, sobretudo da fotografia icônica. Propõe-se discutir o suposto estatuto transformador da imagem e identificar os elementos presentes na fotografia de Aylan Kurdi responsáveis por inquietar o mundo em favor e contra os refugiados, bem como as características de uma sociedade em que as tecnologias digitais criam condições para que os indivíduos atuem ativamente na propagação de conteúdos, alterando irreversivelmente a forma como nos comunicamos. Por meio de leitura de imagem, do estudo do imaginário e da sociedade em rede, e com uso de metodologia qualitativa, procedeu-se à análise das reproduções artísticas da fotografia de Aylan, sustentada em teóricos dos campos estudados. A pesquisa recuperou a trajetória da imagem e do imaginário no Ocidente e localizou no tempo e no espaço o drama dos refugiados, com destaque para a guerra civil na Síria, bem como associou tais aspectos à emergência da sociedade em rede e das tecnologias digitais que põe em xeque as formas tradicionais de exercício do poder, uma vez que esse exercício depende do controle da comunicação. Constatou que a imagem em estudo inquietou indivíduos e grupos, gerou iniciativas empáticas transitórias em defesa dos refugiados, mas divide a opinião de estudiosos do tema sobre seu poder transformador. Concluiu que a sociedade digital nos obriga a rever o conhecimento construído ao longo dos últimos séculos, considerando que vivemos em contexto radicalmente diferente, o que exige mais que a histórica iconoclastia e a desconfiança quanto ao poder da imagem.
+Este trabalho
 
-#strong[Palavras-chave]: Imagem e imaginário; Fotografia icônica; Aylan Kurdi; Redes sociais; comunicação mediada.
+#strong[Palavras-chave]: TDAH, Ensino de Física.
 // Abstract ==================================
 #pagebreak()
 #set text(..t2, weight:"black")
 Abstract
 #v(1cm)
 #set text(..regular)
-The photo of Aylan Kurdi, a 3-year-old Syrian boy killed on a beach in Turkey on September 2, 2015, shocked the world and became a symbol of the current migratory crisis that has generated millions of refugees. This photograph inspired an artistic movement in digital social media that reproduced, in the form of illustrations, the image of Aylan dead on the beach and turned the theme \"refugees\" into one of the most discussed subjects on the internet in 2015. It also brought once more discussion about the transforming power of the image, especially iconic photography. This study proposes to discuss the supposed transforming status of the image and identify the elements in the photograph of Aylan Kurdi responsible for disturbing the world in favor of and against refugees, as well as the characteristics of a society in which digital technologies create the conditions for individuals to actively engage in the propagation of content, irreversibly altering the way in which we communicate. Through reading of image, the study of the imaginary and of network society, and using a qualitative methodology, we proceeded to the analysis of reproductions of Aylan\'s photography, supported by the work of academics of the fields mentioned above. The research recovered the trajectory of the image and the imaginary in the West and localized in time and space the drama of refugees, with emphasis on civil war in Syria. It also associated these aspects to the emergence of the network society and digital technologies that challenge traditional forms of power, since this exercise depends on the control of communication. We found that the studied image disturbed individuals and groups, generated transitional empathetic initiatives in defense of refugees, but divides the view of scholars of the theme about its transforming power. It concluded that the digital society compels us to review the knowledge built over the last centuries, considering that we live in a radically different context, which requires more than the historical iconoclasm and distrust of the power of the image.
+In this work
 
-#strong[Keywords]: Image and imaginary; Iconic photography; Aylan Kurdi; Social media; mediated communication.
+#strong[Keywords]: ADHD, Physics Education.
 
 #pagebreak()
 // Listas ====================================
