@@ -1,4 +1,4 @@
-# Modelo em Typst para monogrtafia do curso de Licenciatura em Fisica da UFSCar, campus Araras 
+# Modelo em Typst para monografia do curso de Licenciatura em Física da UFSCar, campus Araras    
 
 Este repositório é baseado no modelo inicial proposto neste endereço https://github.com/fredguth/abnt-typst.
 
