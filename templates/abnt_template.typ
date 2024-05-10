@@ -124,7 +124,9 @@ show heading: it => if (it.level==1){[
   ]} else {[
 
     #set text(fill: luma(50), font: estilo.fonte.sans, weight: "semibold", size: 1.2em * (1- 0.05 * it.level))
+    //#par(first-line-indent: 0pt)
     #move(dx:-1.0cm, dy:.3cm, block(width:100%+2cm)[
+    //#move(dy:.3cm, block(width:100%+2cm)[
       #grid(columns: (2cm, 1fr), rows: 1, gutter: 0pt,
         align(right + bottom, pad(x:.25cm, text(weight: "medium", counter(heading).display()))),it.body)
     ])
